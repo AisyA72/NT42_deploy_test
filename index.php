@@ -38,6 +38,28 @@
   </ol>
   <p>以上がAzureのデプロイ方法です。</p>
 
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+    }
+    h1 {
+      text-align: center;
+      margin-top: 50px;
+    }
+    p {
+      text-align: center;
+      margin-top: 30px;
+    }
+    ol {
+      margin-top: 30px;
+    }
+    li {
+      margin-top: 10px;
+    }
+  </style>
+
 </body>
 </html>
 
